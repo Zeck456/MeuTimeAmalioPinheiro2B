@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
 .cabecalho {
     background-color: #383D58;
     color: white;
@@ -19,4 +21,53 @@
 
 .escola-imagem {
     width: 25%;
+}
+
+.escola {
+    background-image: linear-gradient(#383D58,#4EBFE9);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    padding: 24px 0;
+    
+}
+
+.escola-div-conteudo {
+    width: 35%;
+}
+
+.escola-titulo {
+    padding: 24px 0;
+    font-size: 50px;
+
+}
+
+.escola-texto-um {
+    font-family: "Caveat", cursive;
+    font-size: 25px;
+}
+
+.escola-texto-dois {
+    font-family: "Caveat", cursive;
+    font-size: 25px;
+}
+
+.estudante-titulo {
+    font-family: "Caveat", cursive;
+    font-size: 25px;
+}
+
+.estudante-imagem {
+    width: 120px;
+}
+
+.nome-aluno {
+    font-family: "Caveat", cursive;
+    font-size: 25px;
+}
+
+.icone-aluno {
+    width: 24px;
 }
